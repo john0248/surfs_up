@@ -22,7 +22,7 @@ There are a few things we can conclude looking at the statistical summaries:
 The good news from our queries is that most likely the temperature is favorable year around for ice cream and surfing.   
 
 In order to get a more complete picture of weather, here are two additional queries to perform for June and December: 
-1. Find out how often it rains during these months.
+1. Find out how often it rains.
 2. Possible explore other weather sites close to the shops location to collect data from.
 
 
